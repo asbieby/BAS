@@ -1,1 +1,4 @@
-Belajar Excel
+Private Sub UserForm_Initialize()
+    ComboBox1.AddItem "Laki-Laki"
+    ComboBox1.AddItem "Perempuan"
+End Sub
